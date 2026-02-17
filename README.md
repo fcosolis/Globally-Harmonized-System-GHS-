@@ -95,6 +95,8 @@ Users can manage all sections directly from the interface:
 
 Designed to reduce duplication errors and improve usability.
 
+![Modern VBA User Interface](https://github.com/fcosolis/Globally-Harmonized-System-GHS-/blob/main/VBA.png)
+
 ---
 
 ### 🌍 Multi-Language Support
@@ -125,13 +127,15 @@ Ensures information integrity and reliability.
 
 Visual KPI monitoring and analytical charts for operational and compliance tracking.
 
+![Dashboard](https://github.com/fcosolis/Globally-Harmonized-System-GHS-/blob/main/Dashboard.png)
+
 ---
 
 ### 🏷️ 2️⃣ Labels
 
 Chemical label registration table:
 
-| ID | Code | Chemical | Location | Generation Date | Fill Weight | Unit | Environmental Hazard | Serious Health Hazard | Ozone Hazard | Toxic | Corrosive | Compressed Gas | Oxidizing | Flammable | Explosive | Glasses | Gloves | Boots | Face Shield | Full Suit | Gas Mask |
+![Labels](https://github.com/fcosolis/Globally-Harmonized-System-GHS-/blob/main/Labels.png)
 
 ---
 
@@ -139,7 +143,7 @@ Chemical label registration table:
 
 Chemical master data:
 
-| ID | Code | Name | Description | CAS | UN Number | Lot Number | Revision Date | Expiration Date | Signal Word | Supplier | Comment | SDS File |
+![Chemicals](https://github.com/fcosolis/Globally-Harmonized-System-GHS-/blob/main/Chemicals.png)
 
 ---
 
@@ -147,33 +151,39 @@ Chemical master data:
 
 Hazard codes and official GHS statements.
 
+![Hazards](https://github.com/fcosolis/Globally-Harmonized-System-GHS-/blob/main/Hazards.png)
+
 ---
 
 ### 🛡️ 5️⃣ Precautions
 
 Precautionary codes and statements.
 
+![Precautions](https://github.com/fcosolis/Globally-Harmonized-System-GHS-/blob/main/Precautions.png)
+
 ---
 
 ### 📍 6️⃣ Locations
 
-| ID | Location | Description |
-
 Tracks physical storage locations of chemical substances.
+
+![Locations](https://github.com/fcosolis/Globally-Harmonized-System-GHS-/blob/main/Locations.png)
 
 ---
 
 ### 🏢 7️⃣ Suppliers
 
-| ID | Name | TIN | Address | City | State / Province | Country | Zip Code | Phone | Contact | Email | Website | Comment |
-
 Centralized supplier management database.
+
+![Suppliers](https://github.com/fcosolis/Globally-Harmonized-System-GHS-/blob/main/Suppliers.png)
 
 ---
 
 ### 🌐 8️⃣ Language
 
 Translation database used to dynamically adapt both Excel sheets and VBA interface.
+
+![Language](https://github.com/fcosolis/Globally-Harmonized-System-GHS-/blob/main/Languages.png)
 
 ---
 
